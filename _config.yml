@@ -1,0 +1,12 @@
+# Site settings
+name: G2K IPA Video
+description: This is a YouTube linked IPA video.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner: Gateway to Khmer
+email: tech@gateway2kherm.com
+
+# bundle exec jekyll serve --livereload
